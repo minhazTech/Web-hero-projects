@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    display: flex;
+    padding-left:10%;
+    padding-right:10%;
+}
+.color-yell{
+    color: orange;
+}
+h1{
+    font-size:70px;
+    color:#4d4d50;
+    margin-bottom:  3px;
+}
+
+.header{
+    width:75%;
+    
+}
+p{
+    font-size: 25px;
+    color:#737377;
+}
+.header img{
+    width:120%;
+}
+
+.btn, a{
+  text-decoration: none;
+  background-image:linear-gradient(orange,tomato);
+  border-radius: 30px;
+  color: white;
+  padding: 20px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
